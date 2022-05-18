@@ -1,0 +1,15 @@
+/Users/mariashiraeva/Desktop/HW3C#/task2/bin/Debug/net6.0/task2
+/Users/mariashiraeva/Desktop/HW3C#/task2/bin/Debug/net6.0/task2.deps.json
+/Users/mariashiraeva/Desktop/HW3C#/task2/bin/Debug/net6.0/task2.runtimeconfig.json
+/Users/mariashiraeva/Desktop/HW3C#/task2/bin/Debug/net6.0/task2.dll
+/Users/mariashiraeva/Desktop/HW3C#/task2/bin/Debug/net6.0/task2.pdb
+/Users/mariashiraeva/Desktop/HW3C#/task2/obj/Debug/net6.0/task2.csproj.AssemblyReference.cache
+/Users/mariashiraeva/Desktop/HW3C#/task2/obj/Debug/net6.0/task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariashiraeva/Desktop/HW3C#/task2/obj/Debug/net6.0/task2.AssemblyInfoInputs.cache
+/Users/mariashiraeva/Desktop/HW3C#/task2/obj/Debug/net6.0/task2.AssemblyInfo.cs
+/Users/mariashiraeva/Desktop/HW3C#/task2/obj/Debug/net6.0/task2.csproj.CoreCompileInputs.cache
+/Users/mariashiraeva/Desktop/HW3C#/task2/obj/Debug/net6.0/task2.dll
+/Users/mariashiraeva/Desktop/HW3C#/task2/obj/Debug/net6.0/refint/task2.dll
+/Users/mariashiraeva/Desktop/HW3C#/task2/obj/Debug/net6.0/task2.pdb
+/Users/mariashiraeva/Desktop/HW3C#/task2/obj/Debug/net6.0/task2.genruntimeconfig.cache
+/Users/mariashiraeva/Desktop/HW3C#/task2/obj/Debug/net6.0/ref/task2.dll
